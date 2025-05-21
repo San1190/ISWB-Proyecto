@@ -14,6 +14,7 @@ git clone https://github.com/tu-usuario/nombre-del-repo.git
 Asegúrate de tener Git instalado previamente. Si no lo tienes, puedes descargarlo desde git-scm.com.
 
 👨‍💻 Integrantes del equipo
+
 Andrés Sancenón - [github.com/andressance](https://github.com/Andressance)
 
 Hugo Fernández - [github.com/hugoFerPer](https://github.com/HugoFerPer)
