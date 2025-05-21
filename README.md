@@ -16,8 +16,8 @@ Asegúrate de tener Git instalado previamente. Si no lo tienes, puedes descargar
 👨‍💻 Integrantes del equipo
 Andrés Sancenón - [github.com/andressance](https://github.com/Andressance)
 
-Hugo Fernández - [github.com/hugo-fernandez](https://github.com/HugoFerPer)
+Hugo Fernández - [github.com/hugoFerPer](https://github.com/HugoFerPer)
 
 William Atef - 
 
-Santiago Fuentes - [github.com/santifuwetnes](https://github.com/San1190)
+Santiago Fuentes - [github.com/san1190](https://github.com/San1190)
